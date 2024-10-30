@@ -1,0 +1,4 @@
+SERVIDOR=nome
+USUARIO=nome
+SENHA=senha
+BANCO=banco
